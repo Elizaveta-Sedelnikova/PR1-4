@@ -1,0 +1,15 @@
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\bin\Debug\net7.0\pr2_3.exe
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\bin\Debug\net7.0\pr2_3.deps.json
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\bin\Debug\net7.0\pr2_3.runtimeconfig.json
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\bin\Debug\net7.0\pr2_3.dll
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\bin\Debug\net7.0\pr2_3.pdb
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\obj\Debug\net7.0\pr2_3.csproj.AssemblyReference.cache
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\obj\Debug\net7.0\pr2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\obj\Debug\net7.0\pr2_3.AssemblyInfoInputs.cache
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\obj\Debug\net7.0\pr2_3.AssemblyInfo.cs
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\obj\Debug\net7.0\pr2_3.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\obj\Debug\net7.0\pr2_3.dll
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\obj\Debug\net7.0\refint\pr2_3.dll
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\obj\Debug\net7.0\pr2_3.pdb
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\obj\Debug\net7.0\pr2_3.genruntimeconfig.cache
+C:\Users\Елизавета\RiderProjects\pr2_3\pr2_3\obj\Debug\net7.0\ref\pr2_3.dll
